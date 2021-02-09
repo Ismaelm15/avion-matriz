@@ -10,5 +10,7 @@ package matrix;
  * @author ismael
  */
 public class Matriz {
+    //En una matriz cuadrada de cualquier tamaño, buscar el número menor de su columna y mayor de su fila a la vez
+    
     
 }
